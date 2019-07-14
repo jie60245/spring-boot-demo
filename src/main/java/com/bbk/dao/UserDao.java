@@ -12,5 +12,5 @@ public interface UserDao {
     public void updateUser();
 
     //删除
-    public void shanchu();
+    public void shanchuer();
 }
