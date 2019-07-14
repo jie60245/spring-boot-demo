@@ -15,4 +15,6 @@ public interface UserDao {
     public void shanchuer();
 
     public void shanchusan();
+
+    public void shanchusi();
 }
