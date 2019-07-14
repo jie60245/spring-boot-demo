@@ -8,4 +8,6 @@ import java.util.List;
 public interface UserDao {
     //获得所有用户信息
     public List getAllUser();
+    //新增一个修改接口
+    public void updateUser();
 }
