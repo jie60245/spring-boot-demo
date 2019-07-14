@@ -13,4 +13,6 @@ public interface UserDao {
 
     //删除
     public void shanchuer();
+
+    public void shanchusan();
 }
