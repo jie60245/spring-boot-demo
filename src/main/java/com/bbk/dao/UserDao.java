@@ -11,9 +11,4 @@ public interface UserDao {
     //新增一个修改接口
     public void updateUser();
 
-    //我在加一个注解
-    public void zhujie();
-
-    //我删了一个方法
-    public void shanchu();
 }
