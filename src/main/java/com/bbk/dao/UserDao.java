@@ -13,4 +13,7 @@ public interface UserDao {
 
     //我在加一个注解
     public void zhujie();
+
+    //我删了一个方法
+    public void shanchu();
 }
