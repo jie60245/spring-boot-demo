@@ -11,4 +11,6 @@ public interface UserDao {
     //新增一个修改接口
     public void updateUser();
 
+    //删除
+    public void shanchu();
 }
