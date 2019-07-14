@@ -10,4 +10,7 @@ public interface UserDao {
     public List getAllUser();
     //新增一个修改接口
     public void updateUser();
+
+    //我在加一个注解
+    public void zhujie();
 }
