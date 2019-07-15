@@ -19,4 +19,7 @@ public interface UserDao {
     public void chuangjianfenzhi2();
 
     public void chuangjianfenzhi3();
+
+    //分支1新增分支4
+    public void chuangjianfenzhi4();
 }
