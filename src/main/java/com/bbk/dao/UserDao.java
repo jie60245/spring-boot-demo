@@ -17,4 +17,6 @@ public interface UserDao {
     public void shanchusan();
 
     public void chuangjianfenzhi2();
+
+    public void chuangjianfenzhi3();
 }
