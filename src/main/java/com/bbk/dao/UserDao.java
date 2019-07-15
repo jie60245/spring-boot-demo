@@ -22,4 +22,7 @@ public interface UserDao {
 
     //分支1新增分支4
     public void chuangjianfenzhi4();
+
+    //分支1新增分支4
+    public void chuangjianfenzhi5();
 }
